@@ -1,4 +1,5 @@
 Hi, i'm Safia
+
 I’m currently a final year MBA in Business Analytics student, with hands-on experience in data analysis (SQL, Python, R, MySQL, Excel) and visualization tools (Tableau, Matplotlib, Seaborn, PowerBI).
 I’m passionate about translating complex data into actionable insights and impactful business decisions and working on projects in data analysis and visualization.
   
